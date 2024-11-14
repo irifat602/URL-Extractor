@@ -1,8 +1,4 @@
-Here's a sample `README.md` file that you can upload to your GitHub repository. It includes instructions on how to use the script, how to create a standalone executable, and some additional information for contributors.
-
----
-
-# URL Extractor App
+ URL Extractor App
 
 This is a simple Python application with a Graphical User Interface (GUI) that allows users to enter a URL, fetch the content of the page, and extract all clickable links. The links are saved to a CSV file. The application uses the `requests` and `BeautifulSoup` libraries for web scraping and `tkinter` for the GUI.
 
