@@ -31,7 +31,7 @@ pip install requests beautifulsoup4
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/url-extractor-app.git
+   git clone https://github.com/irifat602/url-extractor-app.git
    ```
 2. Navigate to the project directory:
    ```bash
